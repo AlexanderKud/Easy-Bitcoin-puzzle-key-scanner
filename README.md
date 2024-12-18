@@ -1,10 +1,13 @@
 # Easy-Bitcoin-puzzle-key-scanner
 a easy private key scanner CPU script that when it detects a specified wallet between a range of private keys ... it will save the wallet info to a txt file....... no backdoors , it can run even offline
+
+PS: i also uploaded a test for puzzle 66 to see how it works 
 ____________________________________________________________________________________________________________________________________
 Please consider donating if you like my script . I'm a 17 yo europoor kid from a 3rd world country and this is my first coding attempt 
 
 BTC: 1DibZfR2BCQyPDLvcuiWRMsdyUDwFEtV1
 ____________________________________________________________________________________________________________________________________
+
 
 
 
@@ -37,4 +40,4 @@ If u find this helpfull and want to support me in creating better scripts , plea
 
 Thank you 
 
-   PS: i also uploaded a test for puzzle 66 to see how it works 
+
