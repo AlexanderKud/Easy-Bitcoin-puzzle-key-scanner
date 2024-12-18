@@ -27,7 +27,7 @@ How to USE:
     
     edit your desired values 
     
-PS: you need to convert your private key from HEX to DEC , this script only works with decimals .. for example "hex: 40000000000000000 is converted to dec: 73786976294838206464"
+you need to convert your private key from HEX to DEC , this script only works with decimals .. for example "hex: 40000000000000000 is converted to dec: 73786976294838206464"
     
 i use this website to convert hex to dec : https://www.binaryhexconverter.com/hex-to-decimal-converter
 
@@ -36,3 +36,5 @@ After you selected your desired search range , you just save and double click th
 If u find this helpfull and want to support me in creating better scripts , please consider donating  BTC : 1DibZfR2BCQyPDLvcuiWRMsdyUDwFEtV1
 
 Thank you 
+
+   PS: i also uploaded a test for puzzle 66 to see how it works 
